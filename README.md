@@ -28,8 +28,10 @@
 
 ```bash
 # 克隆仓库
-git clone <你的仓库地址>
-cd Cross_platform
+git clone https://github.com/Frank72316/arm-sorting-optimization.git
+
+# 进入目录 
+cd arm-sorting-optimization
 
 # 编译所有版本
 bash scripts/compile.sh
